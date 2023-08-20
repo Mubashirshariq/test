@@ -1,5 +1,1 @@
-{{#user}}
-Name: Mubashir
-Skills: HTML, CSS, JS, mongodb,node js,react js,ML,Dl
-Email: mubashirsharik01@gmail.com
-{{/user}}
+
